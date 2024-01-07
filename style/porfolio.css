@@ -111,3 +111,6 @@ main{
     display: flex;
     justify-content: space-around;
 }
+#what-i-do-description{
+    padding: 20px 150px;
+}
